@@ -1,0 +1,3 @@
+sample,fastq_1,fastq_2,strandedness
+tumour,/home/AD/rbhuller/DATA/test_data/WGS_cell_line/illumina/fastq/test_tumour_278_sub_chr21_1_001.fastq.gz,/home/AD/rbhuller/DATA/test_data/WGS_cell_line/illumina/fastq/test_tumour_278_sub_chr21_2_001.fastq.gz,unstranded
+normal,/home/AD/rbhuller/DATA/test_data/WGS_cell_line/illumina/fastq/test_normal_280_sub_chr21_1_001.fastq.gz,/home/AD/rbhuller/DATA/test_data/WGS_cell_line/illumina/fastq/test_normal_280_sub_chr21_2_001.fastq.gz,unstranded

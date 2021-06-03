@@ -1,0 +1,10 @@
+Module	Section	Sample Name	Source
+Picard	DuplicationMetrics	tumour_sorted	/home/AD/rbhuller/CODE/core/workflows/CNV/module_cnv/QC/work/ac/49b173aacf5e92c155aa78d1caca08/tumour.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	normal_sorted	/home/AD/rbhuller/CODE/core/workflows/CNV/module_cnv/QC/work/ac/49b173aacf5e92c155aa78d1caca08/normal.MarkDuplicates.metrics.txt
+Samtools	flagstat	normal_sorted	/home/AD/rbhuller/CODE/core/workflows/CNV/module_cnv/QC/work/ac/49b173aacf5e92c155aa78d1caca08/normal_sorted.bam.flagstat
+Cutadapt	all_sections	test_tumour_278_sub_chr21_2_001	/home/AD/rbhuller/CODE/core/workflows/CNV/module_cnv/QC/work/ac/49b173aacf5e92c155aa78d1caca08/tumour.cutadapt.log
+Cutadapt	all_sections	test_normal_280_sub_chr21_2_001	/home/AD/rbhuller/CODE/core/workflows/CNV/module_cnv/QC/work/ac/49b173aacf5e92c155aa78d1caca08/normal.cutadapt.log
+FastQC	all_sections	normal_1	/home/AD/rbhuller/CODE/core/workflows/CNV/module_cnv/QC/work/ac/49b173aacf5e92c155aa78d1caca08/normal_1_fastqc.zip
+FastQC	all_sections	normal_2	/home/AD/rbhuller/CODE/core/workflows/CNV/module_cnv/QC/work/ac/49b173aacf5e92c155aa78d1caca08/normal_2_fastqc.zip
+FastQC	all_sections	tumour_1	/home/AD/rbhuller/CODE/core/workflows/CNV/module_cnv/QC/work/ac/49b173aacf5e92c155aa78d1caca08/tumour_1_fastqc.zip
+FastQC	all_sections	tumour_2	/home/AD/rbhuller/CODE/core/workflows/CNV/module_cnv/QC/work/ac/49b173aacf5e92c155aa78d1caca08/tumour_2_fastqc.zip

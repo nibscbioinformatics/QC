@@ -1,0 +1,9 @@
+Sample	FastQC_mqc-generalstats-fastqc-percent_duplicates	FastQC_mqc-generalstats-fastqc-percent_gc	FastQC_mqc-generalstats-fastqc-avg_sequence_length	FastQC_mqc-generalstats-fastqc-percent_fails	FastQC_mqc-generalstats-fastqc-total_sequences	Samtools_mqc-generalstats-samtools-flagstat_total	Samtools_mqc-generalstats-samtools-mapped_passed	Picard_mqc-generalstats-picard-PERCENT_DUPLICATION	Cutadapt_mqc-generalstats-cutadapt-percent_trimmed
+normal_1	0.552181115405844	48.0	134.53230259525125	9.090909090909092	1811.0				
+normal_2	0.22087244616234614	48.0	133.16620651573717	9.090909090909092	1811.0				
+normal_sorted						3705	2787	0.005917	
+test_normal_280_sub_chr21_2_001									3.9252525544491497
+test_tumour_278_sub_chr21_2_001									3.6398725897942783
+tumour_1	0.4179728317659368	46.0	134.77742946708463	18.181818181818183	1914.0				
+tumour_2	0.10449320794148775	46.0	132.5710553814002	18.181818181818183	1914.0				
+tumour_sorted								0.004031	

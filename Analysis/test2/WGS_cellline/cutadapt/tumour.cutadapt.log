@@ -1,0 +1,21 @@
+This is cutadapt 3.2 with Python 3.8.10
+Command line parameters: --cores 1 -q 20 -o tumour_1.trim.fastq.gz -p tumour_2.trim.fastq.gz test_tumour_278_sub_chr21_1_001.fastq.gz test_tumour_278_sub_chr21_2_001.fastq.gz
+Processing reads on 1 core in paired-end mode ...
+Finished in 0.24 s (125 µs/read; 0.48 M reads/minute).
+
+=== Summary ===
+
+Total read pairs processed:              1,914
+  Read 1 with adapter:                       0 (0.0%)
+  Read 2 with adapter:                       0 (0.0%)
+Pairs written (passing filters):         1,914 (100.0%)
+
+Total basepairs processed:       511,419 bp
+  Read 1:       257,813 bp
+  Read 2:       253,606 bp
+Quality-trimmed:                  18,615 bp (3.6%)
+  Read 1:         3,505 bp
+  Read 2:        15,110 bp
+Total written (filtered):        492,804 bp (96.4%)
+  Read 1:       254,308 bp
+  Read 2:       238,496 bp
